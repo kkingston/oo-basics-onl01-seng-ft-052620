@@ -5,9 +5,8 @@ class Shoe
     @brand = brand
   end
   def cobble
-    Shoe.condition == "old"
     puts "Your shoe is as good as new!"
-    puts Shoe.condition = "new"
+    Shoe.condition = "new"
     
   end
 end
