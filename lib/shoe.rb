@@ -8,6 +8,6 @@ class Shoe
     if condition == "old"
       puts 
     puts shoe.condition = "new"
-    puts "Good as new!"
+    puts "Your shoe is as good as new!"
   end
 end
