@@ -6,5 +6,6 @@ class Shoe
   end
   def cobble
     puts shoe.condition = "new"
+    puts ""
   end
 end
