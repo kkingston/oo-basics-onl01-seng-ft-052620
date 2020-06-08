@@ -7,5 +7,5 @@ class Shoe
   def cobble
     puts "The shoes had been repaired."
     puts :condition == "new"
-  
+  end
 end
